@@ -42,15 +42,15 @@ A passionate *Full Stack Developer* with a strong focus on the *MERN stack* (Mon
 - Designed a clean and intuitive UI for a seamless hotel booking experience.
 
 ### 🔹  Doctor Appointment Platform
--Tech: React.js, Tailwind CSS, Node.js, Express, MongoDB
+- Tech: React.js, Tailwind CSS, Node.js, Express, MongoDB
 - Revamped a doctor appointment system with smooth UX and full-stack integration.
 
 ### 🔹  Food Delivery Website
--Tech: React.js, CSS, Node.js, Express, MongoDB
+- Tech: React.js, CSS, Node.js, Express, MongoDB
 - Built a user/admin interface for managing orders and users with responsive navigation.
   
 ### 🔹 BILLINDA - Community Platform
--Tech: React, Material UI, SX props
+- Tech: React, Material UI, SX props
 - Rebuilt a local marketplace platform with modern animations and interactive features.
   
 ### 🔹 Matrimony Website – Connecting Hearts
